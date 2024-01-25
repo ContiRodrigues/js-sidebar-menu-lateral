@@ -15,9 +15,7 @@ Assim, com esse tema do 'sidebar - menu lateral', temos à disposição mais um 
 
 ## O recurso em execução 👀
 
-**Link do vídeo**
-
-
+https://github.com/ContiRodrigues/js-sidebar-menu-lateral/assets/106720974/e1ffede0-3eac-495e-ae79-ca354e579635
 
 
 ## Links 📒 :
